@@ -12,6 +12,10 @@ With just 100GB Disk Space and 100GB monthly bandwidth to keep you alive on the 
 
 - You must have a  [Degoo Cloud Account](https://cloud.degoo.com/drive-bbkv1qfida2d) 
 
+
+![Screenshot (163).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598154736322/Y9I_LhZwe.png)
+
+
 The Degoo Cloud Account gives you 100GB storage to upload your web files. We have decided to give you **5GB more extra storage space on Degoo  Cloud Storage** when you  [click on this link](https://cloud.degoo.com/drive-bbkv1qfida2d).  You will be required to input your folder share link when making your payment. DotEight Host will then download this folder to our cloud server after successful payment. In less than 24 Hours after payment, a billing team member will get across to you and set up your website space for you.
 
 
