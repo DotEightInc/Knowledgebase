@@ -10,9 +10,15 @@ With just 100GB Disk Space and 100GB monthly bandwidth to keep you alive on the 
 # Things to note before getting started.
 
 
+- You must have a  [Degoo Cloud Account](https://cloud.degoo.com/drive-bbkv1qfida2d) 
+
+The Degoo Cloud Account gives you 100GB storage to upload your web files. We have decided to give you **5GB more extra storage space on Degoo  Cloud Storage** when you  [click on this link](https://cloud.degoo.com/drive-bbkv1qfida2d).  You will be required to input your folder share link when making your payment. DotEight Host will then download this folder to our cloud server after successful payment. In less than 24 Hours after payment, a billing team member will get across to you and set up your website space for you.
+
+
+
 - DotEight Host Student Hosting Plan does not have a Control Panel (Cpanel)
 
-In as much we tried to make this offer awesome for you, we are left with the inability to provide you a control panel to edit your website files or make certain changes. But do not worry. You can always come to us through our support channels most especially on WhatsApp with the changes you want to make. Within 10 - 20 minutes  of changes request, we promise to help you make up with the changes. In case you don`t love this, we have other hosting plan which comes with all features. To know more about our other hosting plan, kindly  [click here](https://doteightinc.com/doteighthost/#hosting) 
+In as much we tried to make this offer awesome for you, we are left with the inability to provide you a control panel to edit your website files or make certain changes. But do not worry. You can always edit your files on **Degoo Cloud Storage** and notify us about the changes you have made. We promise to reflect those changes within 24Hours of contact. In case you don`t love this, we have other hosting plan which comes with all features. To know more about our other hosting plan, kindly  [click here](https://doteightinc.com/doteighthost/#hosting) 
 
 
 - Form Notifications by mail.
@@ -28,6 +34,9 @@ We don`t support apps like Wordpress, Wix e.t.c installs on our student hosting 
 
 # Getting Started
 
+> **Please Note:** DotEight Host will not be responsible for non-compliance of the above or latter instructions. For more clarity and support, do reach out to us  [here](https://doteightinc.com/contact) 
+
+Once you have meet the above criteria, you are good to go.
 
 
 - 
