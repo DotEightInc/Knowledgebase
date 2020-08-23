@@ -63,7 +63,7 @@ Select the student hosting plan and select choose plan which costs NGN 3,000 ann
 
 > Kindly make sure you insert a correct email address. Your payment receipt will be invoiced to your supplied email address. In case of a transaction issue, the billing team will request a screenshot of the payment receipt or your payment transaction reference number.
 
-**If you don`t know what the Degoo Folder Share link is all about,  [Click here](https://link.imcoming) 
+**If you don`t know what the Degoo Folder Share link is all about,  [Click here](https://cloud.degoo.com/drive-y2l4f7pfojez) 
 **
 
 
