@@ -7,6 +7,25 @@ With just 100GB Disk Space and 100GB monthly bandwidth to keep you alive on the 
 
 > Kindly Note that the student hosting plan is only designed for static websites only. No database server attached. All web files must be in HTML, CSS , JavaScript or any web technology related to front-end development. Kindly contact your web developer for details.
 
+# Things to note before getting started.
+
+
+- DotEight Host Student Hosting Plan does not have a Control Panel (Cpanel)
+
+In as much we tried to make this offer awesome for you, we are left with the inability to provide you a control panel to edit your website files or make certain changes. But do not worry. You can always come to us through our support channels most especially on WhatsApp with the changes you want to make. Within 10 - 20 minutes  of changes request, we promise to help you make up with the changes. In case you don`t love this, we have other hosting plan which comes with all features. To know more about our other hosting plan, kindly  [click here](https://doteightinc.com/doteighthost/#hosting) 
+
+
+- Form Notifications by mail.
+
+Do you have a contact form or just a form you use in collecting details from users? Do not worry, we have provided a feature that best fit what you want. kindly  [click here](https://)  to get started on your form notifications by mail.
+
+
+- No app install;
+
+We don`t support apps like Wordpress, Wix e.t.c installs on our student hosting plan. You can get our Wordpress Hosting or our default hosting plan to get this feature.  [Click here](https://doteightinc.com/doteighthost/#hosting)  to explore our other hosting plans.
+
+ 
+
 # Getting Started
 
 
