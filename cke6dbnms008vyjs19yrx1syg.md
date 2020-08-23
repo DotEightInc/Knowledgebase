@@ -10,7 +10,7 @@ With just 100GB Disk Space and 100GB monthly bandwidth to keep you alive on the 
 # Things to note before getting started.
 
 
-- You must have a  [Degoo Cloud Account](https://cloud.degoo.com/drive-bbkv1qfida2d) 
+-** You must have a  [Degoo Cloud Account](https://cloud.degoo.com/drive-bbkv1qfida2d) **
 
 
 ![Screenshot (163).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598154736322/Y9I_LhZwe.png)
@@ -20,17 +20,17 @@ The Degoo Cloud Account gives you 100GB storage to upload your web files. We hav
 
 
 
-- DotEight Host Student Hosting Plan does not have a Control Panel (Cpanel)
+- **DotEight Host Student Hosting Plan does not have a Control Panel (Cpanel)**
 
 In as much we tried to make this offer awesome for you, we are left with the inability to provide you a control panel to edit your website files or make certain changes. But do not worry. You can always edit your files on **Degoo Cloud Storage** and notify us about the changes you have made. We promise to reflect those changes within 24Hours of contact. In case you don`t love this, we have other hosting plan which comes with all features. To know more about our other hosting plan, kindly  [click here](https://doteightinc.com/doteighthost/#hosting) 
 
 
-- Form Notifications by mail.
+- **Form Notifications by mail.**
 
 Do you have a contact form or just a form you use in collecting details from users? Do not worry, we have provided a feature that best fit what you want. kindly  [click here](https://)  to get started on your form notifications by mail.
 
 
-- No app install;
+- **No app install;**
 
 We don`t support apps like Wordpress, Wix e.t.c installs on our student hosting plan. You can get our Wordpress Hosting or our default hosting plan to get this feature.  [Click here](https://doteightinc.com/doteighthost/#hosting)  to explore our other hosting plans.
 
@@ -44,14 +44,14 @@ Once you have meet the above criteria, you are good to go.
 
 
 - 
-  Head on to  [DotEight Host Website](https://doteightinc.com/doteighthost/) 
+  **Head on to  [DotEight Host Website](https://doteightinc.com/doteighthost/) **
 
 ![Screenshot (154).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598140378594/qxiFmon_9.png)
 
  
 
 - 
-Scroll down till you get to the DotEight Host Hosting Plans
+**Scroll down till you get to the DotEight Host Hosting Plans**
 
 
 ![Screenshot (153).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598140404508/OKFzp81Kt.png)
@@ -59,7 +59,7 @@ Scroll down till you get to the DotEight Host Hosting Plans
 
 
 - 
-Select the student hosting plan and select choose plan which costs NGN 3,000 annually. On clicking the **Choose Plan** button, you will be redirected to the payment gateway to make your payment transaction.
+**Select the student hosting plan and select choose plan which costs NGN 3,000 annually. On clicking the *Choose Plan* button, you will be redirected to the payment gateway to make your payment transaction.**
 
 
 ![Screenshot (155).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598141246000/iNav4f8rf.png)
@@ -68,7 +68,7 @@ Select the student hosting plan and select choose plan which costs NGN 3,000 ann
 > At this point, kindly make sure you have a strong internet connection to avoid being over charged or triggering the pending transaction notification 
 
 
-- Kindly insert all your details. Your Names, Email Address, Contact Telephone, WhatsApp Number and your Degoo Folder Share Link.
+- **Kindly insert all your details. Your Names, Email Address, Contact Telephone, WhatsApp Number and your Degoo Folder Share Link.**
 
 
 ![Screenshot (156).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598141595089/M0yEjkjEN.png)
@@ -80,8 +80,8 @@ Select the student hosting plan and select choose plan which costs NGN 3,000 ann
 **
 
 
-- Click on the **Pay** button. You will be redirected to make transactions with your ATM card. 
-
+- **Click on the *Pay* button. You will be redirected to make transactions with your ATM card. 
+**
 
 ![Screenshot (157).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598142118204/nl9fsfFyk.png)
 
@@ -89,7 +89,7 @@ Select the student hosting plan and select choose plan which costs NGN 3,000 ann
 > Make sure your insert the correct card details else your transaction will be declined.
 
 
-- Verify you own the ATM card by inputting your 4-digit card pin
+- **Verify you own the ATM card by inputting your 4-digit card pin**
 
 
 ![Screenshot (158).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598142452629/v_bWac62v.png)
@@ -103,7 +103,7 @@ Select the student hosting plan and select choose plan which costs NGN 3,000 ann
 
 
 - 
-On successful transaction, you will be redirected back to a confirmation page on DotEightInc Website alerting you that your transaction is successful.
+**On successful transaction, you will be redirected back to a confirmation page on DotEightInc Website alerting you that your transaction is successful.**
 
 
 ![Screenshot (161).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1598142721046/7dTTj40Q_.png)
