@@ -1,6 +1,6 @@
 ## Getting Started on DotEight Host Student Hosting Plan
 
-Getting started on the DotEight Host Student Hosting Plan has never been so much easier.
+Getting started on the **DotEight Host Student Hosting Plan** has never been so much easier.
 
 With just 100GB Disk Space and 100GB monthly bandwidth to keep you alive on the web for an annual price of NGN 3,000.
 
